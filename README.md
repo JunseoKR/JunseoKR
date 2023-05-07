@@ -1,5 +1,15 @@
 ## 🫧 Junseo's GitHub
 
+
+
+![Junseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunseoKR&theme=graywhite&show_icons=true)
+
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunseoKR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+<br>
+
 ## 🛠️ Tech Stack
 
 ### Language
@@ -25,11 +35,9 @@
 ### OS
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"> <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
 
-## 🎬 Design
-<img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=for-the-badge&logo=AdobePremierePro&logoColor=white"> <img src="https://img.shields.io/badge/After Effect-9999FF?style=for-the-badge&logo=AdobeAfterEffects&logoColor=white"> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoShop&logoColor=white">
-
 * * *
 
-![Junseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunseoKR&theme=graywhite&show_icons=true)
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunseoKR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 🎬 Design
+<img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=for-the-badge&logo=AdobePremierePro&logoColor=white"> <img src="https://img.shields.io/badge/After Effect-9999FF?style=for-the-badge&logo=AdobeAfterEffects&logoColor=white"> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoShop&logoColor=white">
