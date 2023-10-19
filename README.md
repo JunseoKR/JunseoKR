@@ -6,14 +6,6 @@
 
 <br>
 
-## 🚀 LIFT OFF
-
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">&nbsp;
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">&nbsp;
-
-<br>
-
 ## 🛠️ Tech Stack
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">&nbsp;
@@ -46,12 +38,3 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">&nbsp;
-
-* * *
-
-<br>
-
-## 🎬 Design
-<img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=flat-square&logo=AdobePremierePro&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/After Effect-9999FF?style=flat-square&logo=AdobeAfterEffects&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=AdobePhotoShop&logoColor=white">&nbsp;
